@@ -1,4 +1,4 @@
-# Picky Prints - Loja de Ilustrações
+# Picky Kitty Store
 
 ## Visão Geral
 
