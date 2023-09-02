@@ -32,7 +32,7 @@ import {desenharProdutoCarrinhoSimples, lerLocalStorage, apagarDoLocalStorage, s
   
     salvarLocalStorage('historico', historicoDePedidosAtualizado);
     apagarDoLocalStorage('carrinho');
-    window.location.href = window.location.origin + '/pedidos.html';
+    window.location.href = window.location.origin + '/picky-kitty/pedidos.html';
   }
 
   desenharProdutosCheckout();
