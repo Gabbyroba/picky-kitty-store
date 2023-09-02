@@ -57,4 +57,4 @@ Exemplo de uso de classes Tailwind CSS:
 
 Sinta-se à vontade para contribuir com melhorias para este projeto. Abra um problema (issue) ou envie um pull request com suas sugestões.
 
-Espero que esta documentação ajude a entender a estrutura e as funcionalidades do projeto "Picky Prints". Divirta-se explorando a loja de ilustrações!
+Espero que esta documentação ajude a entender a estrutura e as funcionalidades do projeto "Picky Kitty". Divirta-se explorando a loja de ilustrações!
