@@ -27,7 +27,7 @@ export function inicializarCarrinho() {
 
   botaoFecharCarrinho.addEventListener("click", fecharCarrinho);
   botaoAbrirCarrinho.addEventListener("click", abrirCarrinho);
-  botaoIrParaCheckout.addEventListener("click", irParaCheckout);
+  botaoIrParaCheckout.addEventListener("click", irParaCheckout, () =>{atualizarPrecoCarrinho;});
 }
 
 export function atualizarInformacaoQuantidade(idProduto){

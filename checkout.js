@@ -35,6 +35,7 @@ import {desenharProdutoCarrinhoSimples, lerLocalStorage, apagarDoLocalStorage, s
     window.location.href = window.location.origin + '/picky-kitty/pedidos.html';
   }
 
+
   desenharProdutosCheckout();
 
   document.addEventListener('submit', (evento) => finalizarCompra(evento));
