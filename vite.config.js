@@ -24,8 +24,3 @@ export default defineConfig({
   },
 });
 
-{
-  scripts: {
-    preview: "vite preview --port 8080"
-  }
-}
