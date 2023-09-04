@@ -1,0 +1,2 @@
+import{l as d,d as n}from"./utilidades-1d916fea.js";function r(o){const i=`<p class="text-xl font-bold my-4"> ${new Date(o.dataPedido).toLocaleDateString("pt-BR",{hour:"2-digit",minute:"2-digit"})}</p> 
+    <section class="bg-stone-300 p-3 rounded-lg shadow-lg shadow-slate-400" id='historico-container-pedidos-${o.dataPedido}'> </section>`,e=document.getElementsByTagName("main")[0];e.innerHTML+=i;for(const t in o.pedido)n(t,`historico-container-pedidos-${o.dataPedido}`,o.pedido[t])}function s(){const o=d("historico");for(const i of o)r(i)}s();
