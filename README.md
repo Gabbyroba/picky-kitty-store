@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-A "Picky Prints" é uma loja fictícia de ilustrações que oferece uma ampla variedade de obras de arte digitais. Este projeto é implementado com HTML, JavaScript e CSS, aproveitando o framework Tailwind CSS para estilização responsiva. Ele permite aos usuários navegar pelas ilustrações, adicionar itens ao carrinho de compras e concluir o processo de pagamento.
+A "Picky Kitty Store" é uma loja fictícia de ilustrações que oferece uma ampla variedade de obras de arte digitais. Este projeto é implementado com HTML, JavaScript e CSS, aproveitando o framework Tailwind CSS para estilização responsiva. Ele permite aos usuários navegar pelas ilustrações, adicionar itens ao carrinho de compras e concluir o processo de pagamento. Veja um preview [aqui](youtu.be/2ER41qwFBZY).
 
 ### Navegação de Ilustrações
 
